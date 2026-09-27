@@ -1,0 +1,7 @@
+{
+  "name": "RPG AI Hub",
+  "description": "An AI-powered roleplaying and persistent world RPG platform with deterministic authoritative game state simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

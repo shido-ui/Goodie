@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Back Aura -->
+    <path
+        android:pathData="M54,30 L74,42 L74,66 L54,78 L34,66 L34,42 Z"
+        android:strokeWidth="3"
+        android:strokeColor="#66FFB300"
+        android:fillColor="#22FFB300" />
+
+    <!-- D20 / RPG Core Icon -->
+    <!-- Top Face -->
+    <path
+        android:pathData="M54,34 L68,44 L40,44 Z"
+        android:fillColor="#FFD54F" />
+
+    <!-- Left Face -->
+    <path
+        android:pathData="M40,44 L54,34 L36,54 Z"
+        android:fillColor="#FFA000" />
+
+    <!-- Right Face -->
+    <path
+        android:pathData="M68,44 L54,34 L72,54 Z"
+        android:fillColor="#FFC107" />
+
+    <!-- Center Upper Face -->
+    <path
+        android:pathData="M40,44 L68,44 L54,58 Z"
+        android:fillColor="#FFF8E1" />
+
+    <!-- Center Left -->
+    <path
+        android:pathData="M40,44 L54,58 L36,54 Z"
+        android:fillColor="#FFB300" />
+
+    <!-- Center Right -->
+    <path
+        android:pathData="M68,44 L72,54 L54,58 Z"
+        android:fillColor="#FFCA28" />
+
+    <!-- Lower Left -->
+    <path
+        android:pathData="M36,54 L54,58 L42,72 Z"
+        android:fillColor="#FF8F00" />
+
+    <!-- Lower Right -->
+    <path
+        android:pathData="M72,54 L54,58 L66,72 Z"
+        android:fillColor="#FFA000" />
+
+    <!-- Bottom Center -->
+    <path
+        android:pathData="M54,58 L42,72 L66,72 Z"
+        android:fillColor="#FFE082" />
+
+    <!-- Bottom Tip -->
+    <path
+        android:pathData="M42,72 L66,72 L54,76 Z"
+        android:fillColor="#FF6F00" />
+
+    <!-- D20 Outline Wireframe -->
+    <path
+        android:pathData="M54,34 L68,44 L72,54 L66,72 L54,76 L42,72 L36,54 L40,44 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M40,44 L68,44 M40,44 L54,58 M68,44 L54,58 M36,54 L54,58 M72,54 L54,58 M42,72 L54,58 M66,72 L54,58 M42,72 L66,72"
+        android:strokeWidth="1.2"
+        android:strokeColor="#CCFFFFFF"
+        android:fillColor="#00000000" />
+
+    <!-- Arcane Energy Sparks -->
+    <path
+        android:pathData="M54,26 L56,30 L54,32 L52,30 Z"
+        android:fillColor="#00E5FF" />
+    <path
+        android:pathData="M78,50 L81,52 L78,54 L76,52 Z"
+        android:fillColor="#00E5FF" />
+    <path
+        android:pathData="M30,50 L32,52 L30,54 L28,52 Z"
+        android:fillColor="#00E5FF" />
+</vector>
